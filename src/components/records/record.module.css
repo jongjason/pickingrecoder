@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+}
+
+.header {
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+
+.backBtn {
+  position: absolute;
+  top: 1em;
+  left: 1em;
+}
+
+.day__row {
+  background-color: #f5f5f5;
+  margin-bottom: 1rem;
+}

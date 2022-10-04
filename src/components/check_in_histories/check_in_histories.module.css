@@ -1,0 +1,15 @@
+.item {
+  background-color: #eeeeee;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item__time p {
+  padding-left: 1rem;
+}
+
+.delBtn {
+  margin-left: 1rem;
+}
