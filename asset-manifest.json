@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pickingrecoder/static/css/main.9ad171ee.css",
+    "main.js": "/pickingrecoder/static/js/main.fdddbea3.js",
+    "index.html": "/pickingrecoder/index.html",
+    "main.9ad171ee.css.map": "/pickingrecoder/static/css/main.9ad171ee.css.map",
+    "main.fdddbea3.js.map": "/pickingrecoder/static/js/main.fdddbea3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad171ee.css",
+    "static/js/main.fdddbea3.js"
+  ]
+}
