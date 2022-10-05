@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pickingrecoder/static/css/main.9ad171ee.css",
-    "main.js": "/pickingrecoder/static/js/main.02907f09.js",
+    "main.js": "/pickingrecoder/static/js/main.4069ca06.js",
     "index.html": "/pickingrecoder/index.html",
     "main.9ad171ee.css.map": "/pickingrecoder/static/css/main.9ad171ee.css.map",
-    "main.02907f09.js.map": "/pickingrecoder/static/js/main.02907f09.js.map"
+    "main.4069ca06.js.map": "/pickingrecoder/static/js/main.4069ca06.js.map"
   },
   "entrypoints": [
     "static/css/main.9ad171ee.css",
-    "static/js/main.02907f09.js"
+    "static/js/main.4069ca06.js"
   ]
 }
